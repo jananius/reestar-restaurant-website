@@ -12,4 +12,4 @@ A simple restaurant landing page built using HTML and CSS.
 - CSS3
 
 ## Author
-Nila
+Janani
